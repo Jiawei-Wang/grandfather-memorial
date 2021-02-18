@@ -1,0 +1,49 @@
+#headertext {
+    color:  #e0dedc;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    font-size: 22px
+}
+
+#text1 {
+    color: #e0dedc;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    font-size: 22px
+}
+
+#text2 {
+    color: #e0dedc;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    font-size: 22px
+}
+
+#text3 {
+    color: #e0dedc;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    font-size: 22px
+}
+
+.linktext {
+    color: #e0dedc;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    font-size: 22px
+}
+
+body {
+    font-family: Courier New, monospace;
+    font-size: 14px;
+    margin: 100px;
+    background-image: url('../images/white-chrysanthemums.jpeg');
+    background-attachment: fixed;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
